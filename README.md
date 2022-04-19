@@ -1,4 +1,18 @@
 R
 =
 
-R exercises and examples
+R exercises and examples with Gitpod
+
+
+As of this document it adds the following:
+
+````sh
+> R --version
+R version 4.1.3 (2022-03-10) -- "One Push-Up"
+Copyright (C) 2022 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+````
+
+NOTE: There is a bug in the PDF viewer. You need to rerun the script to get the view. That time the PDf file has to be in preview mode.
+
+
